@@ -1,4 +1,3 @@
-hola
 
 # Computer science
 
